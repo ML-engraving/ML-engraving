@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vcenter=true&width=500&lines=Incisioni+laser;Linux+Enthusiast;Open+Source+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vcenter=true&width=650&lines=Incisioni+Laser;Fotoincisioni+Texture+su+Stampi;Linux+Enthusiast;Open+Source+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
