@@ -1,16 +1,13 @@
-<!-- Banner Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=ML%20Engraving&fontSize=50&animation=fadeIn&desc=I%20Guru%20delle%20Superfici&descSize=20&descAlign=62&descAlignY=65" width="100%" alt="ML Engraving Banner" />
 </p>
 
-<!-- Typing Dynamic Text -->
 <p align="center">
   <a href="https://www.mlengraving.com/it">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vcenter=true&width=700&lines=Incisioni+Laser+3D;Fotoincisioni+Chimiche;Progettazione+Texture+%26+Processo+DRE%C2%AE;Superfici+Estetiche+e+Funzionali;I+Guru+delle+Superfici" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Badges Row -->
 <p align="center">
   <img src="https://img.shields.io/badge/Leader-Europa_Incisioni_Laser-blue?style=for-the-badge&logo=shield" alt="Leader Europa" />
   <img src="https://img.shields.io/badge/Macchine_Laser-25-0e75b6?style=for-the-badge&logo=cpu" alt="25 Macchine Laser" />
@@ -63,9 +60,6 @@ Siamo orgogliosi di collaborare con i principali brand e designer internazionali
   </a>
   <a href="https://www.linkedin.com/company/ml-engraving">
     <img src="https://img.shields.io/badge/LinkedIn-ML_Engraving-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/mlengraving">
-    <img src="https://img.shields.io/badge/Instagram-@mlengraving-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/mlengraving">
     <img src="https://img.shields.io/badge/Facebook-ML_Engraving-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
